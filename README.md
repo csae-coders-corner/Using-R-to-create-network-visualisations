@@ -148,6 +148,8 @@ For nodes list:
 
 For edge list:
 
+|       |          |                        |
+| :---  | :---     | :---                   |
 | NYC   | HOU      | could include weights  |
 | NYC   | LA       |                        |
 | LA    | OK       |                        |
@@ -156,3 +158,12 @@ For edge list:
 | HOU   | NYC      |                        |
 | HOU   | LA       |                        |
 | OK    | LA       |                        |
+
+
+The plotted graph is shown below-
+
+![N Visualisations 1](https://github.com/csae-coders-corner/Using-R-to-create-network-visualisations/assets/148211163/2ffdca5b-0b16-49c7-86e2-879c8b4850cc)
+
+
+**Juni Singh, Paris School of Economics
+20 May 2021**
