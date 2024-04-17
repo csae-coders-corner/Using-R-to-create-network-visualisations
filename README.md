@@ -137,10 +137,13 @@ An example of possible network data format for trade links looks like:
 
 For nodes list:
 
+
 | NYC   | east     | other attributes  |
+| :---  | :---     | :---              |
 | LA    | west     |                   |
 | HOU   | south    |                   |
 | OK    | mid-west |                   |
+
 
 For edge list:
 
