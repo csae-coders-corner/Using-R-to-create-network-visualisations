@@ -1,3 +1,5 @@
+![CC Graphics 2024_Networkvisualisations](https://github.com/csae-coders-corner/Using-R-to-create-network-visualisations/assets/148211163/49ecee41-df72-4908-aa32-1c8f5f9b275c)
+
 # Using-R-to-create-network-visualisations
 
 Given the importance of networks in today’s world, it is interesting to be able to visualize the data. 
